@@ -1,5 +1,11 @@
-{
-	"name": "fcc-learn-npm-package-json",
+{"name": "fcc-learn-npm-package-json",
+	"author": "Jane Doe",
+
+"description": "A project that does something awesome",
+	"keywords": [ "descriptive", "related", "words","freecodecamp"],
+	"license": "MIT",
+	"version": "1.2.0",
+
 	"dependencies": {
 		"express": "^4.14.0"
 	},
@@ -9,6 +15,6 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
+		"url": "https://github.com/bmw7777/lexus5.git"
 	}
 }
